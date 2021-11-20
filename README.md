@@ -1,5 +1,5 @@
 # OnlineSalesBusiness
-Analisis 3 Point (Keuntungan per Item, Total Diskon, Total Retur) dari Bisnis Penjualan Online
+Analisis 3 Point (Keuntungan per Item, Total Diskon, Total Retur) dari Bisnis Penjualan Online yang dikerjakan secara individu.
 
 ## Dataset
 Dataset didapatkan dari RevoU berupa Google Sheet (Excel) dengan ukuran (1775x6) dan memiliki penjelasan setiap kolom
